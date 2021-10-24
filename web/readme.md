@@ -1,0 +1,1 @@
+Teste do uso de git com VS
