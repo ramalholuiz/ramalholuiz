@@ -7,7 +7,7 @@ Test Teardown       Encerra sessão
 *** Test Cases ***
 Selecionando por id:
     Go To                           ${url}/radios
-    Select Radio Button             movies      Cap
+    Select Radio Button             movies      cap
     Radio Button Should Be Set To   movies      cap
 
 Selecionando por value:
